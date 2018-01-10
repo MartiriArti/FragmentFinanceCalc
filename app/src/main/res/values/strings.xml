@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FragmentFinanceCalc</string>
+    <string name="btn_deposit_text">Deposit</string>
+    <string name="btn_credit_text">Credit</string>
+    <string name="tv_separator">_____________________________________</string>
+    <string name="deposit_activity_title">Deposit Calc</string>
+    <string name="et_summa_vklada_hint">Сумма вклада</string>
+    <string name="et_stavka_hint">Ставка %</string>
+    <string name="et_duration_hint">Срок (мес)</string>
+    <string name="cb_kap_hint">Капитализация</string>
+    <string name="et_popolnenie_hint">Пополнение (мес)</string>
+    <string name="et_nalog_hint">Налог в %</string>
+    <string name="tv_mes_dohod_text">Ежемесячный доход:</string>
+    <string name="tv_obshiy_dohod_text">Общий доход через И мес:</string>
+    <string name="tv_obshaya_summa_popoleniy_text">Общая сумма пополнений:</string>
+    <string name="tv_itogovaya_summa_text">Итоговая сумма (% + вклад):</string>
+    <string name="credit_activity_title">Credit Calc</string>
+    <string name="et_sum_credit_hint">Сумма кредита</string>
+    <string name="et_duration_credit_hint">Срок (мес)</string>
+    <string name="et_strahovka_hint">Страховка %</string>
+    <string name="et_avans_hint">Аванс %</string>
+    <string name="et_komissiya_hint">Комиссия %</string>
+    <string name="tv_vznos">Первоначальный взнос:</string>
+    <string name="tv_mes_platej">Ежемесячный платеж:</string>
+    <string name="tv_pereplata">Переплата по кредиту:</string>
+    <string name="tv_itogovaya">Итоговая сумма погашения:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
